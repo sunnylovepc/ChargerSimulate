@@ -6,7 +6,7 @@
 
 
 #define WRITE_TIME_OUT 50000
-#define MAX_TIMEOUTNUM	3
+#define MAX_TIMEOUTNUM	6
 
 class ChargeDev  
 {
